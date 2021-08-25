@@ -1,2 +1,2 @@
 # Quiz-Project
-Html, Css
+HTML, CSS
