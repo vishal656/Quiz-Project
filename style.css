@@ -1,0 +1,46 @@
+#nav {
+    overflow: hidden;
+    background-color: burlywood;
+    position: fixed;
+    width: 50%;
+    padding: 20px;
+    float: center;
+    margin-left: 23%;
+}
+
+#navmenu a {
+    text-align: center;
+    display: initial;
+}
+
+#myhome {
+    margin: auto;
+    padding: 10px;
+    width: 70%;
+    background-color: palevioletred;
+    margin-top: 5px;
+    /* padding-left: 20px;
+    padding-right: 23px; */
+    height: 150px;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-family: 'Comic Sans MS';
+    text-decoration: underline;
+    text-align: center;
+}
+
+#myquiz {
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    width: 70%;
+    margin-top: 10px;
+}
+
+#heading {
+    text-align: center;
+    font-size: 24px;
+    background-color: lightcyan;
+}
